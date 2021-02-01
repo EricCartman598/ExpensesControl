@@ -4,6 +4,6 @@
     <title>Main page</title>
 </head>
 <body>
-    <p>This is the main page</p>
+    <p>This is the web page secured by form-based authentication</p>
 </body>
 </html>
